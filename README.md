@@ -1,11 +1,10 @@
-# convert-money
+# Convert-money
 Aplicação desenvolvida para converter Real em Dólar, Euro e Bitcoin
 
-# Convert Money
+# Aplicação
 
-<img src="./screen/convert Bitcoin.png" alt="convert Bitcoin" width="400;"/>
-<img src="./screen/convert Dólar.png" alt="Convert Dólar" width="400;"/>
-<img src="./screen/convert Euro.png" alt="convert Euro" width="400;"/>
+<img src="./assets/mobile.gif" alt="convert Bitcoin" width="400;"/>
+
 
 
 
