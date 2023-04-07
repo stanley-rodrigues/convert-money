@@ -22,7 +22,7 @@ O projeto foi feito com essas 3 tecnologias.
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/stanley-rodrigues/">
-        <img src="./myphoto/stanley.jpg" width="100px;" alt="Foto de Stanley Rodrigues"/><br>
+        <img src="https://github.com/stanley-rodrigues/easy-shopping-pag-responsiva/raw/master/assets/eu.jpeg?raw=true" width="100px;" alt="Foto de Stanley Rodrigues"/><br>
         <sub>
           <b>Stanley Rodrigues</b>
         </sub>
