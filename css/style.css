@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.8rem;
+    font-style: normal;
+    font-weight: 400;
+}
+
+html {
+    font-size: 62.5%;
+}
+body {
+    background: #E5E5E5;
+}
+
+.container {
+    width: 37.5rem;
+    background: #f4f4f4;
+    margin: 0 auto;
+    margin-top: 10rem;
+}
+
+header {
+    background: #1B83E2;
+    width: 37.5rem;
+    height: 6.6rem;
+    
+}
+
+header h1 {
+    font-size: 2.4rem;
+    text-align: center;
+    padding-top: 2.6rem;
+    color: #F4F4F4;
+}
+
+main {
+    padding: 2.4rem ;
+}
+
+label {
+font-size: 1.4rem;
+color: #777777;
+}
+
+select {
+width: 100%;
+height: 4.8rem;
+background: #FFFFFF;
+border: 0.1rem solid #BBBBBB;
+border-radius: 0.4rem;
+margin-bottom: 2.4rem;
+box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.15);
+appearance: none;
+cursor: pointer;
+outline: none;
+padding: 1.6rem;
+}
+
+input {
+width: 100%;
+height: 4.8rem;
+background: #FFFFFF;
+border: 0.1rem solid #BBBBBB;
+box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.15);
+border-radius: 0.4rem;
+margin-bottom: 2.4rem;
+cursor: pointer;
+padding: 1.6rem;
+outline: none;
+}
+
+button {
+width: 32.7rem;
+height: 4.8rem;
+background: #1B83E2;
+border-radius: 2.5rem;
+border: none;
+box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.15);
+font-weight: 700;
+font-size: 1.6rem;
+color: #F4F4F4;
+cursor: pointer;
+}
+
+button:hover {
+    background: #015090;
+}
+
+button:active {
+    opacity: 0.7;
+}
+
+section {
+width: 32.7rem;
+height: 27.6rem;
+left: 2.4rem;
+top: 45.8rem;
+margin-top: 3.6rem;
+border: 0.1rem solid #1B83E2;
+border-radius: 0.4rem;
+}
+
+section div {
+    text-align: center;
+}
+
+section div img {
+    margin-top: 1.1rem;
+}
+
+section div p {
+font-size: 1.4rem;
+color: #777777;
+}
+
+section div p:last-child {
+font-weight: 700;
+font-size: 2.0rem;
+color: #1B83E2;
+}
+
+.arrow{
+    display: block;
+    margin: 1.6rem auto 0;
+}
+
+
+
